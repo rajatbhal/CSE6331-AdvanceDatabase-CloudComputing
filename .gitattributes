@@ -1,0 +1,4 @@
+*.java linguist-detectable=true
+*.scala linguist-detectable=true
+*.hql linguist-detectable=true
+*.pig linguist_detectable=true
